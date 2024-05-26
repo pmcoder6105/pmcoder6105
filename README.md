@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - you can reach me on my discord or email me!
 
 💪 Currently working on...
-- a barcode scanning algorithm that returns important nutritional information about the food!
+- a food barcode scanning algorithm that returns important nutritional information about the food!
