@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I'm Pratyush Mahadevaiah, aka pmcoder6105!
 
 <!--
 **pmcoder6105/pmcoder6105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
