@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+I'm an aspiring Deep Learning engineer and Tech Entrepreneur in high school looking for the next big thing! I love working on hackathons, competitive programming, and following the AI/ML community.
+- I have a small YouTube channel where I post my hackathon showcases and game devlogs! (Yup, one of my favorite hobbies is game development). Go check it out; my YouTube handle is @krabbyPatty824
 
