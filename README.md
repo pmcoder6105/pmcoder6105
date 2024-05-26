@@ -15,10 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏅 I'm an aspiring Deep Learning engineer and Tech Entrepreneur in high school looking for the next big thing! I love working on hackathons, competitive programming, and following the AI/ML community 🚀
+🏅 I'm an aspiring Deep Learning engineer and Tech Entrepreneur in high school looking for the next big idea! I love working on hackathons, competitive programming, and following the AI/ML community 🚀
 - I have a small YouTube channel where I post my hackathon showcases and game devlogs 🎮! (Yup, one of my favorite hobbies is game development). Go check it out; my YouTube handle is @krabbyPatty824
 
 👀 I'm interested in...
 - deep learning tech, finance & investing, data ethics, swimming, mobile games :)
 
+🌱 I’m currently learning...
+- c++ (mastered), python (intermediate), ML regression & classification techniques, with a full knowledge of HTML and CSS
 
+🤝 I'm looking to collaborate on...
+- anything! hit me up if you want to team up for a hackathon, to work on an AI model, or anything I have at least a basic understanding of.
+
+🤔 Fun Fact...
+- my first ever programming experience was game development! I've been developing games for 7 years! (if you wanna check out my games, take a look at my game dev portfolio: https://muse.io/pratyushm)
+
+📫 How to reach me...
+- you can reach me on my discord or email me!
+
+💪 Currently working on...
+- a barcode scanning algorithm that returns important nutritional information about the food!
